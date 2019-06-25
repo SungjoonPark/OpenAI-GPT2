@@ -1,0 +1,3 @@
+OpenWebTextCorpus
+https://skylion007.github.io/OpenWebTextCorpus/
+subset00_data-1
